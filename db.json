@@ -1,4 +1,4 @@
-[
+{data :[
     {
         modelId : 1,
         modelName : 'Loosebolt Transformer',
@@ -149,4 +149,4 @@
         description : 'This is a test model for leaking transformer',
         lifecycleStage : 'deploy',
     }
-]
+]}
