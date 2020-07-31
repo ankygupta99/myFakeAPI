@@ -3,150 +3,150 @@
         "modelId" : 1,
         "modelName" : "Loosebolt Transformer",
         "description" : "This is a test model for transformer",
-        "lifecycleStage" : "backlog",
+        "lifecycleStage" : "backlog"
     },
     {
         "modelId" : 2,
         "modelName" : "Bushing Transformer",
         "description" : "This is a test model for transformer",
-        "lifecycleStage" : "backlog",
+        "lifecycleStage" : "backlog"
     },
     {
         "modelId" : 3,
         "modelName" : "Negative Transformer",
         "description" : "This is a test model for transformer, this description is a long text, very very long long text. This is to check the UX design for atleast four lines of description in the UI. this description is a long text, very very long long text !",
-        "lifecycleStage" : "train",
+        "lifecycleStage" : "train"
     },
     {
         "modelId" : 4,
         "modelName" : "Test Transformer",
         "description" : "This is a test model for transformer",
-        "lifecycleStage" : "train",
+        "lifecycleStage" : "train"
     },
     {
         "modelId" : 5,
         "modelName" : "New top Transformer",
         "description" : "This is a test model for transformer",
-        "lifecycleStage" : "label",
+        "lifecycleStage" : "label"
     },
     {
         "modelId" : 6,
         "modelName" : "Head Transformer",
         "description" : "This is a test model for transformer",
-        "lifecycleStage" : "label",
+        "lifecycleStage" : "label"
     },
     {
         "modelId" : 7,
         "modelName" : "Tail Transformer",
         "description" : "This is a test model for transformer",
-        "lifecycleStage" : "deploy",
+        "lifecycleStage" : "deploy"
     },
     {
         "modelId" : 8,
         "modelName" : "Arrestor",
         "description" : "This is a test model for transformer",
-        "lifecycleStage" : "label",
+        "lifecycleStage" : "label"
     },
     {
         "modelId" : 9,
         "modelName" : "Flashed Arrestor",
         "description" : "This is a test model for transformer",
-        "lifecycleStage" : "label",
+        "lifecycleStage" : "label"
     },
     {
         "modelId" : 10,
         "modelName" : "Safe Insultor",
         "description" : "This is a test model for transformer",
-        "lifecycleStage" : "train",
+        "lifecycleStage" : "train"
     },
     {
         "modelId" : 11,
         "modelName" : "Insulator loose",
         "description" : "This is a test model for transformer",
-        "lifecycleStage" : "train",
+        "lifecycleStage" : "train"
     },
     {
         "modelId" : 12,
         "modelName" : "Insulator top",
         "description" : "This is a test model for Insulator",
-        "lifecycleStage" : "deploy",
+        "lifecycleStage" : "deploy"
     },
     {
         "modelId" : 13,
         "modelName" : "Insulator cap",
         "description" : "This is a test model for Insulator",
-        "lifecycleStage" : "backlog",
+        "lifecycleStage" : "backlog"
     },
     {
         "modelId" : 14,
         "modelName" : "Insulator pin type",
         "description" : "This is a test model for Insulator",
-        "lifecycleStage" : "train",
+        "lifecycleStage" : "train"
     },
     {
         "modelId" : 15,
         "modelName" : "Insulator type",
         "description" : "This is a test model for transformer",
-        "lifecycleStage" : "backlog",
+        "lifecycleStage" : "backlog"
     },
     {
         "modelId" : 16,
         "modelName" : "New insulator",
         "description" : "This is a test model for new Insulator",
-        "lifecycleStage" : "backlog",
+        "lifecycleStage" : "backlog"
     },
     {
         "modelId" : 17,
         "modelName" : "Flashed Insulator",
         "description" : "This is a test model for Insulator",
-        "lifecycleStage" : "label",
+        "lifecycleStage" : "label"
     },
     {
         "modelId" : 18,
         "modelName" : "Insulator",
         "description" : "This is a test model for insulator",
-        "lifecycleStage" : "label",
+        "lifecycleStage" : "label"
     },
     {
         "modelId" : 19,
         "modelName" : "Hangerbolt Transformer",
         "description" : "This is a test model for hangerbolt transformer",
-        "lifecycleStage" : "deploy",
+        "lifecycleStage" : "deploy"
     },
     {
         "modelId" : 20,
         "modelName" : "Bushing Transformer",
         "description" : "This is a test model for bushing transformer",
-        "lifecycleStage" : "backlog",
+        "lifecycleStage" : "backlog"
     },
     {
         "modelId" : 21,
         "modelName" : "Bolt Transformer",
         "description" : "This is a test model for bolt transformer",
-        "lifecycleStage" : "label",
+        "lifecycleStage" : "label"
     },
     {
         "modelId" : 22,
         "modelName" : "Flashed Transformer",
         "description" : "This is a test model for flashed transformer",
-        "lifecycleStage" : "backlog",
+        "lifecycleStage" : "backlog"
     },
     {
         "modelId" : 23,
         "modelName" : "Loose Transformer",
         "description" : "This is a test model for loose transformer",
-        "lifecycleStage" : "train",
+        "lifecycleStage" : "train"
     },
     {
         "modelId" : 24,
         "modelName" : "New Transformer",
         "description" : "This is a test model for new transformer",
-        "lifecycleStage" : "backlog",
+        "lifecycleStage" : "backlog"
     },
     {
         "modelId" : 25,
         "modelName" : "Leaking Transformer",
         "description" : "This is a test model for leaking transformer",
-        "lifecycleStage" : "deploy",
+        "lifecycleStage" : "deploy"
     }
 ]}
